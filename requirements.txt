@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+requests
+openpyxl
+world_trade_data
+comtradeapicall
+kaleido
+fpdf
